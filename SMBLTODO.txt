@@ -1,0 +1,9 @@
+Download SMBL file for Ecoli Textbook from intra lab database.
+
+Check if test1.py works on the oostop.com server, might need to do some tweaking to get python to work.
+
+Save it in ??? folder, get numpy and scipy (if they're not already there) and try to run it.
+
+Ask Daniel Hyduke who maintains the thing on sourceforge -- post anonymously with questions and he should answer.
+
+Add Cobra to the python path, and get numpy and scipy to work for the 'install'. 
