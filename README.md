@@ -22,7 +22,7 @@ We simulate microorganisms with the best-characterized, simplest metabolic netwo
 functional insights. However, the goal is a framework simulating metabolic functions of any organism. User contributions, such as
 optimized conditions that reduce biofuel production costs, will be patented and sold, and user contributors offered avenues to participate in an R&D lab where the fruits of their labors are taken to the next stage.
 
-Scientific Advisor:
+Scientific Advisors:
 Phillip E. Bourne, Ph.D. Professor, Pharmacology, Skaggs Pharmacy School – Co-founder and Editor in Chief, PLoS Computational
 Biology. Co-founder, SciVee.tv.
 Daisuke Kihara, Ph.D. Professor, Computer, Biological Sciences, Purdue – kiharalab.org.
